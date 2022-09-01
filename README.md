@@ -19,6 +19,10 @@ Vinther, B. M., Rozmiarek, K. S., Brashear, C. A., &
 White, J. W. C. (2022, in press). Seasonal temperatures in 
 West Antarctica during the Holocene. Nature.
 
+Jones, T. R. (2022) "Seasonal temperatures in West Antarctica 
+during the Holocene " U.S. Antarctic Program (USAP) Data Center. 
+doi: https://doi.org/10.15784/601603.
+
 Input files include d18O_diffused.txt, to be diffusion-corrected,
 and d18O_original.txt, a hypothetical pre-diffusion signal for
 comparison purposes to the diffusion-correction and as an 
