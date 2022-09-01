@@ -9,6 +9,10 @@
 % isotopic-variability (maximum summer and minimum winter values)
 % in the WAIS Divide ice core.
 
+% Jones, T. R. (2022) "Seasonal temperatures in West Antarctica 
+% during the Holocene " U.S. Antarctic Program (USAP) Data Center. 
+% doi: https://doi.org/10.15784/601603.
+
 % Jones, T. R., Cuffey, K. M., Roberts, W. H. G., Markle, B. R., 
 % Steig, E. J., Stevens, Cd18O_original.txt. M., Valdes, P. J., Fudge, T. J., 
 % Sigl, M., Hughes, A. G., Morris, V., Vaughn, B. H., Garland, J., 
