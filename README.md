@@ -4,9 +4,9 @@ Diffusion-correction code for water isotopes in ice cores, as well as extrema pi
 Diffusion-correction code developed by Sigfus Johnsen, 
 University of Copenhagen. which uses Maximum Entropy 
 Methods (MEM) to invert an observed power density spectrum.
-Code provided in 2011 by Bo M. Vinther, University of Copenhagen
+Code provided in 2011 by Bo M. Vinther, University of Copenhagen.
 Code adapted in 2012 by Tyler R. Jones, University of Colorado,
-to include extrema picking
+to include extrema picking.
 
 Used in the following manuscript to reconstruct seasonal
 isotopic-variability (maximum summer and minimum winter values)
@@ -38,6 +38,6 @@ is quantified by the methods in Jones et al. 2017b (see below).
 The length of deconvolution filter is usually set to 100.
 
 Jones, T. R., Cuffey, K. M., White, J. W. C., Steig, E. J., 
-Buizert, C., Markle, B. R., McConnell, J. R. & Sigl, M. (2017b) 
+Buizert, C., Markle, B. R., McConnell, J. R. & Sigl, M. (2017b). 
 Water isotope diffusion in the WAIS Divide ice core during 
 the Holocene and last glacial, J. Geophys. Res. Earth Surf., 122.
